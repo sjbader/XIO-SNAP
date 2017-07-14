@@ -58,7 +58,7 @@ In the unmount_mount function, if you want to unmount and re-mount the clone (us
 
 # First Run
 
-After the script is created, you'll want to run the script with the --create-snapshot-sets option first. This will create all of the initial snapshots!
+After the script is created, you'll want to run the script with the --create-snapshot-sets option first. This will create all of the initial snapshot sets.
 
 # Useful options
 
