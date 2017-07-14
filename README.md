@@ -74,6 +74,10 @@ To call from your backup start command. This will refresh ALL snapshots excep SU
 
 	./xio_epic_snap.pl --all --no-sup
 
+# Feedback
+
+Please let me know if you are using this script. I'd be great to know others are using it! Also let me know if you have any qustions or issues.
+
 # Command line options
 
 XIO Cloning Tool for Epic
