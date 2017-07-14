@@ -76,7 +76,7 @@ To call from your backup start command. This will refresh ALL snapshots excep SU
 
 # Feedback
 
-Please let me know if you are using this script. I'd be great to know others are using it! Also let me know if you have any qustions or issues.
+Please let me know if you are using this script. I'd be great to know others are using it! Also let me know if you have any questions or issues.
 
 # Command line options
 
