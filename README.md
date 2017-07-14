@@ -1,7 +1,7 @@
 # Description
 This script is used to create EMC/Dell XIO snapshots used for backups or SUP refreshes of the Epic EMR system. It could be used for other purposes as well.
 
-A snapshot is kept for each day of the week (Monday, Tuesday, Wednesday, etc) to offer multiple restore points. A RW snaphsot as well as a Read Only snapshot is also created. A SUP snapshot is too. The below is a summary of the snapshots created:
+A snapshot is kept for each day of the week (Monday, Tuesday, Wednesday, etc) to offer multiple restore points. Read-Write, Read-Only, and SUP snapshots are created as well. The below is a summary of the snapshots created:
 
 	The script will create the following SnapShot sets:
 		CGName-SUP	== For SUP (Read/Write)
