@@ -70,7 +70,7 @@ Refresh all clones EXCEPT SUP and do not remount any file systems
 
 	./xio_epic_snap.pl --all --no-mount --no-sup
 
-To call from your backup start command. This will refresh ALL snapshots excep SUP and will remount the file systems listed in the script.
+To call from your backup start command. This will refresh ALL snapshots except SUP and will remount the file systems listed in the script.
 
 	./xio_epic_snap.pl --all --no-sup
 
